@@ -1,0 +1,13 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Rob Reilly",
+  "classifications": [ "Agent Framework", "Ollamma" ],
+  "identity": "AgentFrameworkTemplate.Ollama Agent Project",
+  "name": "Agent Framework Template: Ollama Agent Project",
+  "shortName": "ollamaagent",
+  "sourceName":"ollamaagent",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  }
+}
