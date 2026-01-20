@@ -28,6 +28,7 @@ Navigate to the project directory:
 Bash
 
 cd ollama-agent
+
 dotnet new install .
 
 ⚙️ Configuration
